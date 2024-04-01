@@ -1,0 +1,6 @@
+langchain
+unstructured # Document loading
+chromadb # Vector storage
+openai # For embeddings
+tiktoken  # For embeddings
+PyPdf2 # For reading pdfs
